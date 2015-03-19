@@ -1,0 +1,54 @@
+<?xml   version="1.0"   encoding="utf-8"?>       
+	<lineitem   createuser="false">   
+		<include_creatives>
+			<case1>
+				<lineitem_id>100145</lineitem_id>   
+				<creative_id>100529</creative_id>   
+				<expected>1</expected>
+			</case1>
+			<case2>
+				<lineitem_id>100145</lineitem_id>   
+				<creative_id>-1</creative_id>   
+				<expected></expected>
+			</case2>
+			<case3>
+				<lineitem_id>100145</lineitem_id>   
+				<creative_id>0</creative_id>   
+				<expected>false</expected>
+			</case3>
+			<case4>
+				<lineitem_id>100145</lineitem_id>   
+				<creative_id></creative_id>   
+				<expected>false</expected>
+			</case4>
+			<case5>
+				<lineitem_id>-1</lineitem_id>   
+				<creative_id>100542</creative_id>   
+				<expected>false</expected>
+			</case5>
+			<case6>
+				<lineitem_id>0</lineitem_id>   
+				<creative_id>100542</creative_id>   
+				<expected>false</expected>
+			</case6>
+			<case7>
+				<lineitem_id></lineitem_id>   
+				<creative_id>100542</creative_id>   
+				<expected></expected>
+			</case7>
+		</include_creatives>
+
+		<exclude_creatives>
+			<case1>
+				<lineitem_id>100152</lineitem_id>
+				<creative_id>-1</creative_id>
+				<expected>false</expected>
+			</case1>
+			<case2>
+				<lineitem_id>100152</lineitem_id>
+				<creative_id>0</creative_id>
+				<expected>false</expected>
+			</case2>
+		</exclude_creatives>    
+      
+  	</lineitem>   

@@ -1,0 +1,626 @@
+{
+    "event": "suiteStart",
+    "suite": "ControllerTests",
+    "tests": 28
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest",
+    "tests": 28
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #0 ('US', '', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Impression', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #0 ('US', '', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Impression', '1', '')",
+    "status": "pass",
+    "time": 0.54212212562561,
+    "trace": [],
+    "message": "",
+    "output": "\n"
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #1 ('US', 'media_costs', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Impression', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #1 ('US', 'media_costs', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Impression', '1', '')",
+    "status": "pass",
+    "time": 0.47414207458496,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #2 ('US', '', '', 'day', '', '', 'Impression', '', 'Lost Param time!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #2 ('US', '', '', 'day', '', '', 'Impression', '', 'Lost Param time!')",
+    "status": "fail",
+    "time": 0.47202110290527,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 77,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #3 ('US', '', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #3 ('US', '', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '', '')",
+    "status": "fail",
+    "time": 0.4510281085968,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 77,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #0 ('US', 'media_costs', '', '', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '10', '0', '', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #0 ('US', 'media_costs', '', '', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '10', '0', '', '1', '')",
+    "status": "pass",
+    "time": 0.2613217830658,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #1 ('US', 'media_costs', '', '', '', '', '', '10', '0', '', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #1 ('US', 'media_costs', '', '', '', '', '', '10', '0', '', '1', '')",
+    "status": "pass",
+    "time": 0.41844081878662,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #2 ('', 'media_costs', '', '', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '10', '0', '', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #2 ('', 'media_costs', '', '', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '10', '0', '', '', '')",
+    "status": "fail",
+    "time": 0.47258615493774,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 119,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #3 ('US', '', '', 'day', '', '', '', '10', '0', '', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #3 ('US', '', '', 'day', '', '', '', '10', '0', '', '', '')",
+    "status": "fail",
+    "time": 0.46082592010498,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 119,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #0 ('US', 'media_costs', '', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #0 ('US', 'media_costs', '', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241', '1', '')",
+    "status": "pass",
+    "time": 0.37656712532043,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #1 ('', '', '', '', '', '', '', '', '', 'Lost Params!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #1 ('', '', '', '', '', '', '', '', '', 'Lost Params!')",
+    "status": "pass",
+    "time": 0.24997687339783,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #2 ('', 'media_costs', '', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #2 ('', 'media_costs', '', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241', '', '')",
+    "status": "fail",
+    "time": 0.36061906814575,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 158,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #3 ('US', '', '', 'day', '', '', '', '', '', 'Lost Params!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #3 ('US', '', '', 'day', '', '', '', '', '', 'Lost Params!')",
+    "status": "pass",
+    "time": 0.25003290176392,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #0 ('US', 'media_costs', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '10', '0', '100241', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #0 ('US', 'media_costs', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '10', '0', '100241', '1', '')",
+    "status": "pass",
+    "time": 0.454097032547,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #1 ('', '', '', '', '', '', '', '', '', '', '', 'Lost Params!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #1 ('', '', '', '', '', '', '', '', '', '', '', 'Lost Params!')",
+    "status": "pass",
+    "time": 0.24244809150696,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #2 ('', 'media_costs', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '10', '0', '100241', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #2 ('', 'media_costs', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '10', '0', '100241', '', '')",
+    "status": "fail",
+    "time": 0.45376515388489,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 200,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #3 ('US', '', '', '', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '', '', '100241', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #3 ('US', '', '', '', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '', '', '100241', '', '')",
+    "status": "fail",
+    "time": 0.44137787818909,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 200,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #0 ('US', 'media_costs', '', 'day', '2015-02-16 00:00:00', '2015-03-17i 00:00:00', 'Cost', '100241', '100267', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #0 ('US', 'media_costs', '', 'day', '2015-02-16 00:00:00', '2015-03-17i 00:00:00', 'Cost', '100241', '100267', '1', '')",
+    "status": "pass",
+    "time": 0.34964299201965,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #1 ('', '', '', '', '', '', '', '', '', '', 'Lost Params!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #1 ('', '', '', '', '', '', '', '', '', '', 'Lost Params!')",
+    "status": "error",
+    "time": 0.33135509490967,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 38,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 240,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request exception",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #2 ('US', 'media_costs', '', 'day', '2015-02-16 00:00:00', '2015-03-17i 00:00:00', 'Cost', '100241', '100267', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #2 ('US', 'media_costs', '', 'day', '2015-02-16 00:00:00', '2015-03-17i 00:00:00', 'Cost', '100241', '100267', '1', '')",
+    "status": "pass",
+    "time": 0.35267806053162,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #3 ('', '', '', '', '', '', '', '', '', '', 'Lost Params!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #3 ('', '', '', '', '', '', '', '', '', '', 'Lost Params!')",
+    "status": "error",
+    "time": 0.34567618370056,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 38,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 240,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request exception",
+    "output": "NULL\n"
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #0 ('US', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100241', '100267', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #0 ('US', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100241', '100267', '1', '')",
+    "status": "pass",
+    "time": 0.48060584068298,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #1 ('', '', '', '', '', '', '', '', '', '', 'Lost campaign_id!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #1 ('', '', '', '', '', '', '', '', '', '', 'Lost campaign_id!')",
+    "status": "pass",
+    "time": 0.24549579620361,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #2 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100241', '100267', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #2 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100241', '100267', '', '')",
+    "status": "fail",
+    "time": 0.45647001266479,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 280,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #3 ('US', '', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100241', '100267', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #3 ('US', '', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100241', '100267', '', '')",
+    "status": "fail",
+    "time": 0.45827913284302,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 280,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #0 ('US', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100241', '100267', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #0 ('US', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100241', '100267', '1', '')",
+    "status": "error",
+    "time": 0.30007982254028,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 38,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 322,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request exception",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #1 ('', '', '', '', '', '', '', '', '', '', 'Lost campaign_id!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #1 ('', '', '', '', '', '', '', '', '', '', 'Lost campaign_id!')",
+    "status": "fail",
+    "time": 0.17261600494385,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 322,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected 'Lost campaign_id!'.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #2 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100241', '100267', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #2 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100241', '100267', '', '')",
+    "status": "error",
+    "time": 0.25915503501892,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 38,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 322,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request exception",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #3 ('US', '', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100241', '100267', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #3 ('US', '', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100241', '100267', '', '')",
+    "status": "error",
+    "time": 0.36106300354004,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 38,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 322,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request exception",
+    "output": "NULL\n"
+}
