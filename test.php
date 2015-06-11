@@ -31,7 +31,6 @@ class Report_Cost_Model
     public function cost_DCPM( $Model, $report )
     {
         return $report['media_costs']*$Model['cost_value'];
-
     }
 }
    

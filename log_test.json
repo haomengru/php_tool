@@ -1,0 +1,5073 @@
+{
+    "event": "suiteStart",
+    "suite": "",
+    "tests": 291
+}{
+    "event": "suiteStart",
+    "suite": "ControllerTests",
+    "tests": 61
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest",
+    "tests": 61
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "tests": 10
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #0 ('US', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #0 ('US', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '1', '')",
+    "status": "pass",
+    "time": 0.28462409973145,
+    "trace": [],
+    "message": "",
+    "output": "\n"
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #1 ('us', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #1 ('us', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '1', '')",
+    "status": "pass",
+    "time": 0.19506692886353,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #2 ('US', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '', 'Lost cost_type!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #2 ('US', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '', 'Lost cost_type!')",
+    "status": "pass",
+    "time": 0.13419079780579,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #3 ('US', 'media_costs', 'day', '', '2015-03-17 00:00:00', 'Cost', '', 'Params error!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #3 ('US', 'media_costs', 'day', '', '2015-03-17 00:00:00', 'Cost', '', 'Params error!')",
+    "status": "pass",
+    "time": 0.13601517677307,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #4 ('US', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '', 'Params error!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #4 ('US', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '', 'Params error!')",
+    "status": "pass",
+    "time": 0.17229390144348,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #5 ('', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '', 'Params error!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #5 ('', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '', 'Params error!')",
+    "status": "pass",
+    "time": 0.20073103904724,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #6 ('us', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'cost', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #6 ('us', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'cost', '1', '')",
+    "status": "pass",
+    "time": 0.27985501289368,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #7 ('US', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'cost', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #7 ('US', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'cost', '1', '')",
+    "status": "pass",
+    "time": 0.20757007598877,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #8 ('CN', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'cost', '1', 'campaigns are empty')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #8 ('CN', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'cost', '1', 'campaigns are empty')",
+    "status": "pass",
+    "time": 0.20586109161377,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #9 ('cn', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'cost', '1', 'campaigns are empty')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayAdvertiserInChart",
+    "test": "ReportControllerTest::testDisplayAdvertiserInChart with data set #9 ('cn', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'cost', '1', 'campaigns are empty')",
+    "status": "pass",
+    "time": 0.22520589828491,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "tests": 10
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #0 ('US', 'media_costs', '', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '10', '0', '', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #0 ('US', 'media_costs', '', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '10', '0', '', '1', '')",
+    "status": "pass",
+    "time": 0.35208082199097,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #1 ('US', 'media_costs', '2', '', '', '10', '0', '100241', '', 'Lost param time')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #1 ('US', 'media_costs', '2', '', '', '10', '0', '100241', '', 'Lost param time')",
+    "status": "fail",
+    "time": 0.35036301612854,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 118,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #2 ('', 'media_costs', '', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '10', '0', '', '', 'Params error!', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #2 ('', 'media_costs', '', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '10', '0', '', '', 'Params error!', '')",
+    "status": "pass",
+    "time": 0.27098894119263,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #3 ('US', '', '', '', '', '10', '0', '', '', 'Params error!', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #3 ('US', '', '', '', '', '10', '0', '', '', 'Params error!', '')",
+    "status": "pass",
+    "time": 0.28202605247498,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #4 ('US', 'media_costs', '2', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '10', '0', '', '', 'Lost campaign_id!', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #4 ('US', 'media_costs', '2', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '10', '0', '', '', 'Lost campaign_id!', '')",
+    "status": "fail",
+    "time": 0.50502896308899,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 118,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #5 ('us', 'media_costs', '', '', '', '10', '0', '', '1', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #5 ('us', 'media_costs', '', '', '', '10', '0', '', '1', '', '')",
+    "status": "pass",
+    "time": 0.29129409790039,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #6 ('us', 'media_costs', '2', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '10', '0', '100241', '1', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #6 ('us', 'media_costs', '2', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '10', '0', '100241', '1', '', '')",
+    "status": "pass",
+    "time": 0.24968886375427,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #7 ('US', 'media_costs', '', '', '', '10', '0', '100241', '1', '', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #7 ('US', 'media_costs', '', '', '', '10', '0', '100241', '1', '', '')",
+    "status": "pass",
+    "time": 0.29454803466797,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #8 ('us', 'media_costs', '2', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '10', '0', '0', '', 'Lost campaign_id', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #8 ('us', 'media_costs', '2', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '10', '0', '0', '', 'Lost campaign_id', '')",
+    "status": "fail",
+    "time": 0.32750701904297,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 118,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #9 ('US', 'media_costs', '2', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '10', '0', '-1', '', 'Lost campaign_id', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInGrid",
+    "test": "ReportControllerTest::testDisplayCampaignInGrid with data set #9 ('US', 'media_costs', '2', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '10', '0', '-1', '', 'Lost campaign_id', '')",
+    "status": "fail",
+    "time": 0.26352286338806,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 118,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "tests": 9
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #0 ('US', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #0 ('US', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241', '1', '')",
+    "status": "pass",
+    "time": 0.27285408973694,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #1 ('us', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'cost', '100241', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #1 ('us', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'cost', '100241', '1', '')",
+    "status": "pass",
+    "time": 0.31235289573669,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #2 ('', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241', '', 'Params error!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #2 ('', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241', '', 'Params error!')",
+    "status": "pass",
+    "time": 0.16006207466125,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #3 ('US', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241,-1', '', 'campaign_id error')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #3 ('US', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241,-1', '', 'campaign_id error')",
+    "status": "pass",
+    "time": 0.21792387962341,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #4 ('US', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241,0', '', 'campaign_id error')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #4 ('US', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241,0', '', 'campaign_id error')",
+    "status": "pass",
+    "time": 0.24549913406372,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #5 ('us', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'cost', '100241,', '', 'campaign_id error')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #5 ('us', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'cost', '100241,', '', 'campaign_id error')",
+    "status": "pass",
+    "time": 0.28247809410095,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #6 ('us', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'cost', '100241', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #6 ('us', 'media_costs', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'cost', '100241', '1', '')",
+    "status": "pass",
+    "time": 0.26639795303345,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #7 ('US', 'media_costs', 'day', '', '', 'Cost', '100241', '', 'Params error!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #7 ('US', 'media_costs', 'day', '', '', 'Cost', '100241', '', 'Params error!')",
+    "status": "pass",
+    "time": 0.15870904922485,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #8 ('US', '', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241', '', 'Lost cost_type!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayCampaignInChart",
+    "test": "ReportControllerTest::testDisplayCampaignInChart with data set #8 ('US', '', 'day', '2015-02-17 00:00:00', '2015-03-18 00:00:00', 'Cost', '100241', '', 'Lost cost_type!')",
+    "status": "pass",
+    "time": 0.16813492774963,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "tests": 8
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #0 ('media_costs', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '2', '10', '0', '100241', '100264', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #0 ('media_costs', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '2', '10', '0', '100241', '100264', '1', '')",
+    "status": "pass",
+    "time": 0.24748301506042,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #1 ('', '', '', '', '', '', '', '', '', 'Lost Params!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #1 ('', '', '', '', '', '', '', '', '', 'Lost Params!')",
+    "status": "pass",
+    "time": 0.2456750869751,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #2 ('media_costs', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '2', '10', '0', '100241', '', '', 'Lost lineitem_id!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #2 ('media_costs', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '2', '10', '0', '100241', '', '', 'Lost lineitem_id!')",
+    "status": "pass",
+    "time": 0.2245409488678,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #3 ('', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '2', '', '', '100241', '', '', 'Params error!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #3 ('', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '2', '', '', '100241', '', '', 'Params error!')",
+    "status": "pass",
+    "time": 0.1359429359436,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #4 ('media_costs', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '2', '10', '0', '', '100264', '', 'Lost Params!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #4 ('media_costs', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '2', '10', '0', '', '100264', '', 'Lost Params!')",
+    "status": "fail",
+    "time": 0.19334101676941,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 193,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #5 ('media_costs', '', '', '2', '10', '0', '100241', '100264', '', 'Lost param time')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #5 ('media_costs', '', '', '2', '10', '0', '100241', '100264', '', 'Lost param time')",
+    "status": "pass",
+    "time": 0.14655017852783,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #6 ('media_costs', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '2', '10', '0', '-1', '100264', '', 'Lost Params!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #6 ('media_costs', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '2', '10', '0', '-1', '100264', '', 'Lost Params!')",
+    "status": "fail",
+    "time": 0.21989893913269,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 193,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #7 ('media_costs', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '2', '10', '0', '100241', '-1', '', 'Lost lineitem_id!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInGrid",
+    "test": "ReportControllerTest::testDisplayLineitemInGrid with data set #7 ('media_costs', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '2', '10', '0', '100241', '-1', '', 'Lost lineitem_id!')",
+    "status": "pass",
+    "time": 0.21756386756897,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "tests": 8
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #0 ('US', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17i 00:00:00', 'Cost', '100241', '100267', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #0 ('US', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17i 00:00:00', 'Cost', '100241', '100267', '1', '')",
+    "status": "pass",
+    "time": 0.21130585670471,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #1 ('', '', '', '', '', '', '', '', '', 'Lost lineitem_id!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #1 ('', '', '', '', '', '', '', '', '', 'Lost lineitem_id!')",
+    "status": "pass",
+    "time": 0.15247583389282,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #2 ('US', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '100241', '', '', 'Lost lineitem_id!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #2 ('US', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '100241', '', '', 'Lost lineitem_id!')",
+    "status": "error",
+    "time": 0.2350218296051,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 38,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 231,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request exception",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #3 ('', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '', '100267', '', 'get cost_model error!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #3 ('', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '', '100267', '', 'get cost_model error!')",
+    "status": "pass",
+    "time": 0.22218704223633,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #4 ('', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '100241', '100267', '', 'Lost cost_type')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #4 ('', '', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '100241', '100267', '', 'Lost cost_type')",
+    "status": "pass",
+    "time": 0.2816789150238,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #5 ('', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '-1', '100267', '', 'get cost_model error! ')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #5 ('', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '-1', '100267', '', 'get cost_model error! ')",
+    "status": "pass",
+    "time": 0.2258460521698,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #6 ('', 'media_costs', 'day', '', '', 'Cost', '100241', '100267', '', 'Params error!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #6 ('', 'media_costs', 'day', '', '', 'Cost', '100241', '100267', '', 'Params error!')",
+    "status": "pass",
+    "time": 0.1510329246521,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #7 ('', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '100241', '100267,-1', '', 'lineitem_id error!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayLineitemInChart",
+    "test": "ReportControllerTest::testDisplayLineitemInChart with data set #7 ('', 'media_costs', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', 'Cost', '100241', '100267,-1', '', 'lineitem_id error!')",
+    "status": "fail",
+    "time": 0.23411393165588,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 231,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "tests": 8
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #0 ('US', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100241', '100267', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #0 ('US', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100241', '100267', '1', '')",
+    "status": "fail",
+    "time": 0.16137194633484,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 45,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/ReportControllerTest.php",
+            "line": 269,
+            "function": "exec_test",
+            "class": "ReportControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected '1'.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #1 ('', '', '', '', '', '', '', '', '', 'Lost ids!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #1 ('', '', '', '', '', '', '', '', '', 'Lost ids!')",
+    "status": "pass",
+    "time": 0.15812397003174,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #2 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100267', '', 'Lost ids!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #2 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100267', '', 'Lost ids!')",
+    "status": "pass",
+    "time": 0.15020990371704,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #3 ('US', '', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100241', '100267', '', 'Lost cost_type', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #3 ('US', '', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100241', '100267', '', 'Lost cost_type', '')",
+    "status": "pass",
+    "time": 0.17597913742065,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #4 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100', '100267', '', 'get cost_model error', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #4 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100', '100267', '', 'get cost_model error', '')",
+    "status": "pass",
+    "time": 0.23302507400513,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #5 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '', '', 'Lost ids!', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #5 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '', '', 'Lost ids!', '')",
+    "status": "pass",
+    "time": 0.2851779460907,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #6 ('', '', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100241', '100267', '', 'Lost cost_type', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #6 ('', '', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100241', '100267', '', 'Lost cost_type', '')",
+    "status": "pass",
+    "time": 0.14994692802429,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #7 ('', 'media_costs', 'Geo', 'day', '', '', '100241', '100267', '', 'Lost Params error!', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInGrid",
+    "test": "ReportControllerTest::testDisplayDimensionInGrid with data set #7 ('', 'media_costs', 'Geo', 'day', '', '', '100241', '100267', '', 'Lost Params error!', '')",
+    "status": "pass",
+    "time": 0.13767099380493,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "tests": 8
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #0 ('US', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100241', '100267', '1', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #0 ('US', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100241', '100267', '1', '')",
+    "status": "pass",
+    "time": 0.140958070755,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #1 ('', '', '', '', '', '', '', '', '', 'Lost ids!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #1 ('', '', '', '', '', '', '', '', '', 'Lost ids!')",
+    "status": "pass",
+    "time": 0.14915895462036,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #2 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100267', '', 'Lost ids!')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #2 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '100267', '', 'Lost ids!')",
+    "status": "pass",
+    "time": 0.14296197891235,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #3 ('US', '', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100241', '100267', '', 'Lost cost_type', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #3 ('US', '', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100241', '100267', '', 'Lost cost_type', '')",
+    "status": "pass",
+    "time": 0.18284916877747,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #4 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100', '100267', '', 'get cost_model error', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #4 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100', '100267', '', 'get cost_model error', '')",
+    "status": "pass",
+    "time": 0.24657583236694,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #5 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '', '', 'Lost ids!', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #5 ('', 'media_costs', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '', '', '', 'Lost ids!', '')",
+    "status": "pass",
+    "time": 0.16201210021973,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #6 ('', '', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100241', '100267', '', 'Lost cost_type', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #6 ('', '', 'Geo', 'day', '2015-02-16 00:00:00', '2015-03-17 00:00:00', '100241', '100267', '', 'Lost cost_type', '')",
+    "status": "pass",
+    "time": 0.14490008354187,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #7 ('', 'media_costs', 'Geo', 'day', '', '', '100241', '100267', '', 'Lost Params error!', '')"
+}{
+    "event": "test",
+    "suite": "ReportControllerTest::testDisplayDimensionInChart",
+    "test": "ReportControllerTest::testDisplayDimensionInChart with data set #7 ('', 'media_costs', 'Geo', 'day', '', '', '100241', '100267', '', 'Lost Params error!', '')",
+    "status": "pass",
+    "time": 0.15756392478943,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ControllerTests",
+    "tests": 188
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest",
+    "tests": 188
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testDelete",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete",
+    "test": "Warning"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete",
+    "test": "Warning",
+    "status": "fail",
+    "time": 0.001140832901001,
+    "trace": [],
+    "message": "No tests found in suite \"LineitemControllerTest::testDelete\".",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "tests": 7
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #0 ('100529', '100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #0 ('100529', '100145', '1')",
+    "status": "error",
+    "time": 0.089479923248291,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 78,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #1 ('100300', '-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #1 ('100300', '-1', '')",
+    "status": "error",
+    "time": 0.076215028762817,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 78,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #2 ('-1', '100144', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #2 ('-1', '100144', '')",
+    "status": "error",
+    "time": 0.0660400390625,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 78,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #3 ('0', '100144', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #3 ('0', '100144', '')",
+    "status": "pass",
+    "time": 0.066184997558594,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #4 ('null', '100144', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #4 ('null', '100144', '')",
+    "status": "error",
+    "time": 0.070039987564087,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 78,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #5 ('100300', 'null', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #5 ('100300', 'null', '')",
+    "status": "error",
+    "time": 0.064713001251221,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 78,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #6 ('100300', '0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testExclude_Creatives",
+    "test": "LineitemControllerTest::testExclude_Creatives with data set #6 ('100300', '0', '')",
+    "status": "pass",
+    "time": 0.063812017440796,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "tests": 7
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #0 ('100145', '100529', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #0 ('100145', '100529', '1')",
+    "status": "error",
+    "time": 0.058922052383423,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 100,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #1 ('100145', '-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #1 ('100145', '-1', '')",
+    "status": "error",
+    "time": 0.063348054885864,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 100,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #2 ('100145', '0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #2 ('100145', '0', '')",
+    "status": "pass",
+    "time": 0.05988883972168,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #3 ('100145', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #3 ('100145', '', '')",
+    "status": "pass",
+    "time": 0.073922872543335,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #4 ('-1', '100542', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #4 ('-1', '100542', '')",
+    "status": "error",
+    "time": 0.06071400642395,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 100,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #5 ('0', '100542', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #5 ('0', '100542', '')",
+    "status": "pass",
+    "time": 0.064608812332153,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #6 ('', '100542', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testInclude_Creatives",
+    "test": "LineitemControllerTest::testInclude_Creatives with data set #6 ('', '100542', '')",
+    "status": "pass",
+    "time": 0.058182001113892,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_Lines_By_Campid_Normal",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Lines_By_Campid_Normal",
+    "test": "LineitemControllerTest::testGet_Lines_By_Campid_Normal with data set #0 ('100299', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Lines_By_Campid_Normal",
+    "test": "LineitemControllerTest::testGet_Lines_By_Campid_Normal with data set #0 ('100299', '1')",
+    "status": "fail",
+    "time": 0.066845893859863,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 121,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected '1'.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Lines_By_Campid_Normal",
+    "test": "LineitemControllerTest::testGet_Lines_By_Campid_Normal with data set #1 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Lines_By_Campid_Normal",
+    "test": "LineitemControllerTest::testGet_Lines_By_Campid_Normal with data set #1 ('0', '')",
+    "status": "pass",
+    "time": 0.10744905471802,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Lines_By_Campid_Normal",
+    "test": "LineitemControllerTest::testGet_Lines_By_Campid_Normal with data set #2 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Lines_By_Campid_Normal",
+    "test": "LineitemControllerTest::testGet_Lines_By_Campid_Normal with data set #2 ('-1', '')",
+    "status": "pass",
+    "time": 0.061273097991943,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_Cres",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Cres",
+    "test": "LineitemControllerTest::testGet_Cres with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Cres",
+    "test": "LineitemControllerTest::testGet_Cres with data set #0 ('100145', '1')",
+    "status": "fail",
+    "time": 0.065101146697998,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 144,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected '1'.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Cres",
+    "test": "LineitemControllerTest::testGet_Cres with data set #1 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Cres",
+    "test": "LineitemControllerTest::testGet_Cres with data set #1 ('0', '')",
+    "status": "pass",
+    "time": 0.058271884918213,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Cres",
+    "test": "LineitemControllerTest::testGet_Cres with data set #2 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Cres",
+    "test": "LineitemControllerTest::testGet_Cres with data set #2 ('-1', '')",
+    "status": "pass",
+    "time": 0.06146502494812,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_Excluded_Creatives",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Excluded_Creatives",
+    "test": "LineitemControllerTest::testGet_Excluded_Creatives with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Excluded_Creatives",
+    "test": "LineitemControllerTest::testGet_Excluded_Creatives with data set #0 ('100145', '1')",
+    "status": "error",
+    "time": 0.063671112060547,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 163,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Excluded_Creatives",
+    "test": "LineitemControllerTest::testGet_Excluded_Creatives with data set #1 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Excluded_Creatives",
+    "test": "LineitemControllerTest::testGet_Excluded_Creatives with data set #1 ('0', '')",
+    "status": "pass",
+    "time": 0.058168888092041,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Excluded_Creatives",
+    "test": "LineitemControllerTest::testGet_Excluded_Creatives with data set #2 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Excluded_Creatives",
+    "test": "LineitemControllerTest::testGet_Excluded_Creatives with data set #2 ('-1', '')",
+    "status": "pass",
+    "time": 0.057528018951416,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_Lineitem",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Lineitem",
+    "test": "LineitemControllerTest::testGet_Lineitem with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Lineitem",
+    "test": "LineitemControllerTest::testGet_Lineitem with data set #0 ('100145', '1')",
+    "status": "pass",
+    "time": 0.058367967605591,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Lineitem",
+    "test": "LineitemControllerTest::testGet_Lineitem with data set #1 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Lineitem",
+    "test": "LineitemControllerTest::testGet_Lineitem with data set #1 ('0', '')",
+    "status": "pass",
+    "time": 0.061990976333618,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Lineitem",
+    "test": "LineitemControllerTest::testGet_Lineitem with data set #2 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Lineitem",
+    "test": "LineitemControllerTest::testGet_Lineitem with data set #2 ('-1', '')",
+    "status": "pass",
+    "time": 0.058326005935669,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_All_Param",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_All_Param",
+    "test": "LineitemControllerTest::testGet_All_Param with data set #0 ('100145', 'os', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_All_Param",
+    "test": "LineitemControllerTest::testGet_All_Param with data set #0 ('100145', 'os', '1')",
+    "status": "pass",
+    "time": 0.061148881912231,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_All_Param",
+    "test": "LineitemControllerTest::testGet_All_Param with data set #1 ('0', 'os', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_All_Param",
+    "test": "LineitemControllerTest::testGet_All_Param with data set #1 ('0', 'os', '')",
+    "status": "fail",
+    "time": 0.059758901596069,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 204,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_All_Param",
+    "test": "LineitemControllerTest::testGet_All_Param with data set #2 ('-1', 'os', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_All_Param",
+    "test": "LineitemControllerTest::testGet_All_Param with data set #2 ('-1', 'os', '')",
+    "status": "fail",
+    "time": 0.066642999649048,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 204,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_All_Param",
+    "test": "LineitemControllerTest::testGet_All_Param with data set #3 ('100145', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_All_Param",
+    "test": "LineitemControllerTest::testGet_All_Param with data set #3 ('100145', '', '')",
+    "status": "pass",
+    "time": 0.060699939727783,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_Param",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Param",
+    "test": "LineitemControllerTest::testGet_Param with data set #0 ('100145', 'os', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Param",
+    "test": "LineitemControllerTest::testGet_Param with data set #0 ('100145', 'os', '1')",
+    "status": "fail",
+    "time": 0.061312913894653,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 224,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected '1'.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Param",
+    "test": "LineitemControllerTest::testGet_Param with data set #1 ('0', 'os', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Param",
+    "test": "LineitemControllerTest::testGet_Param with data set #1 ('0', 'os', '')",
+    "status": "pass",
+    "time": 0.061064958572388,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Param",
+    "test": "LineitemControllerTest::testGet_Param with data set #2 ('-1', 'os', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Param",
+    "test": "LineitemControllerTest::testGet_Param with data set #2 ('-1', 'os', '')",
+    "status": "pass",
+    "time": 0.061698913574219,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Param",
+    "test": "LineitemControllerTest::testGet_Param with data set #3 ('100145', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Param",
+    "test": "LineitemControllerTest::testGet_Param with data set #3 ('100145', '', '')",
+    "status": "pass",
+    "time": 0.058085918426514,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "test": "LineitemControllerTest::testDelete_Param with data set #0 ('100145', 'os', '100000', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "test": "LineitemControllerTest::testDelete_Param with data set #0 ('100145', 'os', '100000', '1')",
+    "status": "fail",
+    "time": 0.058120965957642,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 245,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected '1'.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "test": "LineitemControllerTest::testDelete_Param with data set #1 ('0', 'os', '100000', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "test": "LineitemControllerTest::testDelete_Param with data set #1 ('0', 'os', '100000', '')",
+    "status": "pass",
+    "time": 0.05819296836853,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "test": "LineitemControllerTest::testDelete_Param with data set #2 ('-1', 'os', '100000', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "test": "LineitemControllerTest::testDelete_Param with data set #2 ('-1', 'os', '100000', '')",
+    "status": "pass",
+    "time": 0.05558180809021,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "test": "LineitemControllerTest::testDelete_Param with data set #3 ('100145', '', '100000', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "test": "LineitemControllerTest::testDelete_Param with data set #3 ('100145', '', '100000', '')",
+    "status": "pass",
+    "time": 0.055891990661621,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "test": "LineitemControllerTest::testDelete_Param with data set #4 ('100145', 'os', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "test": "LineitemControllerTest::testDelete_Param with data set #4 ('100145', 'os', '', '')",
+    "status": "pass",
+    "time": 0.062340021133423,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "test": "LineitemControllerTest::testDelete_Param with data set #5 ('100145', '', '-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Param",
+    "test": "LineitemControllerTest::testDelete_Param with data set #5 ('100145', '', '-1', '')",
+    "status": "pass",
+    "time": 0.058452844619751,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "test": "LineitemControllerTest::testAdd_Param with data set #0 ('100145', 'os', '100003', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "test": "LineitemControllerTest::testAdd_Param with data set #0 ('100145', 'os', '100003', '1')",
+    "status": "fail",
+    "time": 0.058325052261353,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 266,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected '1'.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "test": "LineitemControllerTest::testAdd_Param with data set #1 ('100145', 'os', '100003', '', '100004')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "test": "LineitemControllerTest::testAdd_Param with data set #1 ('100145', 'os', '100003', '', '100004')",
+    "status": "pass",
+    "time": 0.057410955429077,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "test": "LineitemControllerTest::testAdd_Param with data set #2 ('0', 'os', '100005', '', '100004')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "test": "LineitemControllerTest::testAdd_Param with data set #2 ('0', 'os', '100005', '', '100004')",
+    "status": "pass",
+    "time": 0.058765888214111,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "test": "LineitemControllerTest::testAdd_Param with data set #3 ('100145', 'os', '-1', '', '100004')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "test": "LineitemControllerTest::testAdd_Param with data set #3 ('100145', 'os', '-1', '', '100004')",
+    "status": "pass",
+    "time": 0.059607982635498,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "test": "LineitemControllerTest::testAdd_Param with data set #4 ('100145', '', '', '', '100004')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "test": "LineitemControllerTest::testAdd_Param with data set #4 ('100145', '', '', '', '100004')",
+    "status": "pass",
+    "time": 0.059327125549316,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "test": "LineitemControllerTest::testAdd_Param with data set #5 ('-1', 'os', '100000', '', '100004')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Param",
+    "test": "LineitemControllerTest::testAdd_Param with data set #5 ('-1', 'os', '100000', '', '100004')",
+    "status": "pass",
+    "time": 0.058341026306152,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testAdd_Lists",
+    "tests": 5
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Lists",
+    "test": "LineitemControllerTest::testAdd_Lists with data set #0 ('100145', '10161', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Lists",
+    "test": "LineitemControllerTest::testAdd_Lists with data set #0 ('100145', '10161', '1')",
+    "status": "error",
+    "time": 0.066873073577881,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 285,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Lists",
+    "test": "LineitemControllerTest::testAdd_Lists with data set #1 ('100145', '-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Lists",
+    "test": "LineitemControllerTest::testAdd_Lists with data set #1 ('100145', '-1', '')",
+    "status": "fail",
+    "time": 0.062860012054443,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 285,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Lists",
+    "test": "LineitemControllerTest::testAdd_Lists with data set #2 ('100145', '0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Lists",
+    "test": "LineitemControllerTest::testAdd_Lists with data set #2 ('100145', '0', '')",
+    "status": "pass",
+    "time": 0.066046953201294,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Lists",
+    "test": "LineitemControllerTest::testAdd_Lists with data set #3 ('-1', '100161', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Lists",
+    "test": "LineitemControllerTest::testAdd_Lists with data set #3 ('-1', '100161', '')",
+    "status": "pass",
+    "time": 0.055791854858398,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Lists",
+    "test": "LineitemControllerTest::testAdd_Lists with data set #4 ('0', '100161', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Lists",
+    "test": "LineitemControllerTest::testAdd_Lists with data set #4 ('0', '100161', '')",
+    "status": "pass",
+    "time": 0.059602975845337,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testDelete_Lists",
+    "tests": 5
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Lists",
+    "test": "LineitemControllerTest::testDelete_Lists with data set #0 ('100145', '10161', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Lists",
+    "test": "LineitemControllerTest::testDelete_Lists with data set #0 ('100145', '10161', '1')",
+    "status": "error",
+    "time": 0.073071002960205,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 305,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Lists",
+    "test": "LineitemControllerTest::testDelete_Lists with data set #1 ('100145', '-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Lists",
+    "test": "LineitemControllerTest::testDelete_Lists with data set #1 ('100145', '-1', '')",
+    "status": "fail",
+    "time": 0.060889959335327,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 305,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Lists",
+    "test": "LineitemControllerTest::testDelete_Lists with data set #2 ('100145', '0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Lists",
+    "test": "LineitemControllerTest::testDelete_Lists with data set #2 ('100145', '0', '')",
+    "status": "pass",
+    "time": 0.061403036117554,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Lists",
+    "test": "LineitemControllerTest::testDelete_Lists with data set #3 ('-1', '100161', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Lists",
+    "test": "LineitemControllerTest::testDelete_Lists with data set #3 ('-1', '100161', '')",
+    "status": "pass",
+    "time": 0.058196067810059,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Lists",
+    "test": "LineitemControllerTest::testDelete_Lists with data set #4 ('0', '100161', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Lists",
+    "test": "LineitemControllerTest::testDelete_Lists with data set #4 ('0', '100161', '')",
+    "status": "pass",
+    "time": 0.058499097824097,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "test": "LineitemControllerTest::testGetExcludeLineitemList with data set #0 ('100145', '2', '2', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "test": "LineitemControllerTest::testGetExcludeLineitemList with data set #0 ('100145', '2', '2', '1')",
+    "status": "pass",
+    "time": 0.060060024261475,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "test": "LineitemControllerTest::testGetExcludeLineitemList with data set #1 ('100145', '', '1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "test": "LineitemControllerTest::testGetExcludeLineitemList with data set #1 ('100145', '', '1', '')",
+    "status": "fail",
+    "time": 0.060842990875244,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 335,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "test": "LineitemControllerTest::testGetExcludeLineitemList with data set #2 ('0', '1', '1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "test": "LineitemControllerTest::testGetExcludeLineitemList with data set #2 ('0', '1', '1', '')",
+    "status": "pass",
+    "time": 0.061168909072876,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "test": "LineitemControllerTest::testGetExcludeLineitemList with data set #3 ('-1', '1', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "test": "LineitemControllerTest::testGetExcludeLineitemList with data set #3 ('-1', '1', '', '')",
+    "status": "pass",
+    "time": 0.057013988494873,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "test": "LineitemControllerTest::testGetExcludeLineitemList with data set #4 ('100145', '', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "test": "LineitemControllerTest::testGetExcludeLineitemList with data set #4 ('100145', '', '', '')",
+    "status": "pass",
+    "time": 0.059856176376343,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "test": "LineitemControllerTest::testGetExcludeLineitemList with data set #5 ('100145', '-1', '-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetExcludeLineitemList",
+    "test": "LineitemControllerTest::testGetExcludeLineitemList with data set #5 ('100145', '-1', '-1', '')",
+    "status": "fail",
+    "time": 0.063441038131714,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 335,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "test": "LineitemControllerTest::testGetIncludeLineitemList with data set #0 ('100145', '1', '1', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "test": "LineitemControllerTest::testGetIncludeLineitemList with data set #0 ('100145', '1', '1', '1')",
+    "status": "pass",
+    "time": 0.057124137878418,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "test": "LineitemControllerTest::testGetIncludeLineitemList with data set #1 ('100145', '', '1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "test": "LineitemControllerTest::testGetIncludeLineitemList with data set #1 ('100145', '', '1', '')",
+    "status": "fail",
+    "time": 0.060828924179077,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 361,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "test": "LineitemControllerTest::testGetIncludeLineitemList with data set #2 ('0', '1', '1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "test": "LineitemControllerTest::testGetIncludeLineitemList with data set #2 ('0', '1', '1', '')",
+    "status": "pass",
+    "time": 0.058572053909302,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "test": "LineitemControllerTest::testGetIncludeLineitemList with data set #3 ('-1', '1', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "test": "LineitemControllerTest::testGetIncludeLineitemList with data set #3 ('-1', '1', '', '')",
+    "status": "pass",
+    "time": 0.062535047531128,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "test": "LineitemControllerTest::testGetIncludeLineitemList with data set #4 ('100145', '', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "test": "LineitemControllerTest::testGetIncludeLineitemList with data set #4 ('100145', '', '', '')",
+    "status": "pass",
+    "time": 0.054260015487671,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "test": "LineitemControllerTest::testGetIncludeLineitemList with data set #5 ('100145', '-1', '-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetIncludeLineitemList",
+    "test": "LineitemControllerTest::testGetIncludeLineitemList with data set #5 ('100145', '-1', '-1', '')",
+    "status": "fail",
+    "time": 0.058696985244751,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 361,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "test": "LineitemControllerTest::testGet_Pixel_By_Id with data set #0 ('100145', 'os', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "test": "LineitemControllerTest::testGet_Pixel_By_Id with data set #0 ('100145', 'os', '1')",
+    "status": "fail",
+    "time": 0.055608987808228,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 382,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected '1'.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "test": "LineitemControllerTest::testGet_Pixel_By_Id with data set #1 ('100145', 'os', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "test": "LineitemControllerTest::testGet_Pixel_By_Id with data set #1 ('100145', 'os', '')",
+    "status": "pass",
+    "time": 0.062087059020996,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "test": "LineitemControllerTest::testGet_Pixel_By_Id with data set #2 ('0', 'os', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "test": "LineitemControllerTest::testGet_Pixel_By_Id with data set #2 ('0', 'os', '')",
+    "status": "pass",
+    "time": 0.061060905456543,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "test": "LineitemControllerTest::testGet_Pixel_By_Id with data set #3 ('100145', 'os', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "test": "LineitemControllerTest::testGet_Pixel_By_Id with data set #3 ('100145', 'os', '')",
+    "status": "pass",
+    "time": 0.058125019073486,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "test": "LineitemControllerTest::testGet_Pixel_By_Id with data set #4 ('100145', 'os', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "test": "LineitemControllerTest::testGet_Pixel_By_Id with data set #4 ('100145', 'os', '')",
+    "status": "pass",
+    "time": 0.068975925445557,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "test": "LineitemControllerTest::testGet_Pixel_By_Id with data set #5 ('-1', 'os', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Pixel_By_Id",
+    "test": "LineitemControllerTest::testGet_Pixel_By_Id with data set #5 ('-1', 'os', '')",
+    "status": "pass",
+    "time": 0.061547994613647,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "test": "LineitemControllerTest::testAdd_Pixels with data set #0 ('100145', 'os', '', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "test": "LineitemControllerTest::testAdd_Pixels with data set #0 ('100145', 'os', '', '1')",
+    "status": "fail",
+    "time": 0.057861089706421,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 404,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected '1'.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "test": "LineitemControllerTest::testAdd_Pixels with data set #1 ('100145', 'os', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "test": "LineitemControllerTest::testAdd_Pixels with data set #1 ('100145', 'os', '', '')",
+    "status": "pass",
+    "time": 0.060149908065796,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "test": "LineitemControllerTest::testAdd_Pixels with data set #2 ('0', 'os', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "test": "LineitemControllerTest::testAdd_Pixels with data set #2 ('0', 'os', '', '')",
+    "status": "pass",
+    "time": 0.069561958312988,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "test": "LineitemControllerTest::testAdd_Pixels with data set #3 ('100145', 'os', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "test": "LineitemControllerTest::testAdd_Pixels with data set #3 ('100145', 'os', '', '')",
+    "status": "pass",
+    "time": 0.062416076660156,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "test": "LineitemControllerTest::testAdd_Pixels with data set #4 ('100145', 'os', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "test": "LineitemControllerTest::testAdd_Pixels with data set #4 ('100145', 'os', '', '')",
+    "status": "pass",
+    "time": 0.059648036956787,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "test": "LineitemControllerTest::testAdd_Pixels with data set #5 ('-1', 'os', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Pixels",
+    "test": "LineitemControllerTest::testAdd_Pixels with data set #5 ('-1', 'os', '', '')",
+    "status": "pass",
+    "time": 0.057148933410645,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "test": "LineitemControllerTest::testDelete_Pixels with data set #0 ('100145', 'os', '', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "test": "LineitemControllerTest::testDelete_Pixels with data set #0 ('100145', 'os', '', '1')",
+    "status": "fail",
+    "time": 0.058044910430908,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 430,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected '1'.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "test": "LineitemControllerTest::testDelete_Pixels with data set #1 ('100145', 'os', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "test": "LineitemControllerTest::testDelete_Pixels with data set #1 ('100145', 'os', '', '')",
+    "status": "pass",
+    "time": 0.061559915542603,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "test": "LineitemControllerTest::testDelete_Pixels with data set #2 ('0', 'os', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "test": "LineitemControllerTest::testDelete_Pixels with data set #2 ('0', 'os', '', '')",
+    "status": "pass",
+    "time": 0.055878877639771,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "test": "LineitemControllerTest::testDelete_Pixels with data set #3 ('100145', 'os', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "test": "LineitemControllerTest::testDelete_Pixels with data set #3 ('100145', 'os', '', '')",
+    "status": "pass",
+    "time": 0.057950973510742,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "test": "LineitemControllerTest::testDelete_Pixels with data set #4 ('100145', 'os', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "test": "LineitemControllerTest::testDelete_Pixels with data set #4 ('100145', 'os', '', '')",
+    "status": "pass",
+    "time": 0.05621600151062,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "test": "LineitemControllerTest::testDelete_Pixels with data set #5 ('-1', 'os', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Pixels",
+    "test": "LineitemControllerTest::testDelete_Pixels with data set #5 ('-1', 'os', '', '')",
+    "status": "pass",
+    "time": 0.066071033477783,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_Exchanges",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Exchanges",
+    "test": "LineitemControllerTest::testGet_Exchanges with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Exchanges",
+    "test": "LineitemControllerTest::testGet_Exchanges with data set #0 ('100145', '1')",
+    "status": "error",
+    "time": 0.070821046829224,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 454,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Exchanges",
+    "test": "LineitemControllerTest::testGet_Exchanges with data set #1 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Exchanges",
+    "test": "LineitemControllerTest::testGet_Exchanges with data set #1 ('-1', '')",
+    "status": "pass",
+    "time": 0.057856798171997,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Exchanges",
+    "test": "LineitemControllerTest::testGet_Exchanges with data set #2 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Exchanges",
+    "test": "LineitemControllerTest::testGet_Exchanges with data set #2 ('0', '')",
+    "status": "pass",
+    "time": 0.064208030700684,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testActive",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testActive",
+    "test": "LineitemControllerTest::testActive with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testActive",
+    "test": "LineitemControllerTest::testActive with data set #0 ('100145', '1')",
+    "status": "error",
+    "time": 0.069490909576416,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 493,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testActive",
+    "test": "LineitemControllerTest::testActive with data set #1 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testActive",
+    "test": "LineitemControllerTest::testActive with data set #1 ('-1', '')",
+    "status": "error",
+    "time": 0.061153888702393,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 493,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testActive",
+    "test": "LineitemControllerTest::testActive with data set #2 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testActive",
+    "test": "LineitemControllerTest::testActive with data set #2 ('0', '')",
+    "status": "error",
+    "time": 0.065074920654297,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 493,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testinActive",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testinActive",
+    "test": "LineitemControllerTest::testinActive with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testinActive",
+    "test": "LineitemControllerTest::testinActive with data set #0 ('100145', '1')",
+    "status": "error",
+    "time": 0.063613891601562,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 513,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testinActive",
+    "test": "LineitemControllerTest::testinActive with data set #1 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testinActive",
+    "test": "LineitemControllerTest::testinActive with data set #1 ('-1', '')",
+    "status": "pass",
+    "time": 0.056050062179565,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testinActive",
+    "test": "LineitemControllerTest::testinActive with data set #2 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testinActive",
+    "test": "LineitemControllerTest::testinActive with data set #2 ('0', '')",
+    "status": "pass",
+    "time": 0.061025142669678,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testRevertLineStatus",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testRevertLineStatus",
+    "test": "LineitemControllerTest::testRevertLineStatus with data set #0 ('100145', '1', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testRevertLineStatus",
+    "test": "LineitemControllerTest::testRevertLineStatus with data set #0 ('100145', '1', '1')",
+    "status": "pass",
+    "time": 0.071717977523804,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testRevertLineStatus",
+    "test": "LineitemControllerTest::testRevertLineStatus with data set #1 ('100145', '0', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testRevertLineStatus",
+    "test": "LineitemControllerTest::testRevertLineStatus with data set #1 ('100145', '0', '1')",
+    "status": "pass",
+    "time": 0.079593896865845,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testRevertLineStatus",
+    "test": "LineitemControllerTest::testRevertLineStatus with data set #2 ('100145', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testRevertLineStatus",
+    "test": "LineitemControllerTest::testRevertLineStatus with data set #2 ('100145', '', '')",
+    "status": "fail",
+    "time": 0.09757399559021,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 533,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_All_List",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_All_List",
+    "test": "LineitemControllerTest::testGet_All_List with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_All_List",
+    "test": "LineitemControllerTest::testGet_All_List with data set #0 ('100145', '1')",
+    "status": "pass",
+    "time": 0.059937000274658,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_All_List",
+    "test": "LineitemControllerTest::testGet_All_List with data set #1 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_All_List",
+    "test": "LineitemControllerTest::testGet_All_List with data set #1 ('-1', '')",
+    "status": "pass",
+    "time": 0.057963132858276,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_All_List",
+    "test": "LineitemControllerTest::testGet_All_List with data set #2 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_All_List",
+    "test": "LineitemControllerTest::testGet_All_List with data set #2 ('0', '')",
+    "status": "pass",
+    "time": 0.070840120315552,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testSet_Price_Factor",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testSet_Price_Factor",
+    "test": "LineitemControllerTest::testSet_Price_Factor with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testSet_Price_Factor",
+    "test": "LineitemControllerTest::testSet_Price_Factor with data set #0 ('100145', '1')",
+    "status": "pass",
+    "time": 0.075747966766357,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testSet_Price_Factor",
+    "test": "LineitemControllerTest::testSet_Price_Factor with data set #1 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testSet_Price_Factor",
+    "test": "LineitemControllerTest::testSet_Price_Factor with data set #1 ('-1', '')",
+    "status": "pass",
+    "time": 0.076285839080811,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testSet_Price_Factor",
+    "test": "LineitemControllerTest::testSet_Price_Factor with data set #2 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testSet_Price_Factor",
+    "test": "LineitemControllerTest::testSet_Price_Factor with data set #2 ('0', '')",
+    "status": "pass",
+    "time": 0.073009014129639,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testSet_Param_Factor",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testSet_Param_Factor",
+    "test": "LineitemControllerTest::testSet_Param_Factor with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testSet_Param_Factor",
+    "test": "LineitemControllerTest::testSet_Param_Factor with data set #0 ('100145', '1')",
+    "status": "pass",
+    "time": 0.086119890213013,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testSet_Param_Factor",
+    "test": "LineitemControllerTest::testSet_Param_Factor with data set #1 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testSet_Param_Factor",
+    "test": "LineitemControllerTest::testSet_Param_Factor with data set #1 ('-1', '')",
+    "status": "pass",
+    "time": 0.064445018768311,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testSet_Param_Factor",
+    "test": "LineitemControllerTest::testSet_Param_Factor with data set #2 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testSet_Param_Factor",
+    "test": "LineitemControllerTest::testSet_Param_Factor with data set #2 ('0', '')",
+    "status": "pass",
+    "time": 0.05970311164856,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testSet_Keywords_Factor",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testSet_Keywords_Factor",
+    "test": "LineitemControllerTest::testSet_Keywords_Factor with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testSet_Keywords_Factor",
+    "test": "LineitemControllerTest::testSet_Keywords_Factor with data set #0 ('100145', '1')",
+    "status": "pass",
+    "time": 0.058748006820679,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testSet_Keywords_Factor",
+    "test": "LineitemControllerTest::testSet_Keywords_Factor with data set #1 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testSet_Keywords_Factor",
+    "test": "LineitemControllerTest::testSet_Keywords_Factor with data set #1 ('-1', '')",
+    "status": "pass",
+    "time": 0.075484037399292,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testSet_Keywords_Factor",
+    "test": "LineitemControllerTest::testSet_Keywords_Factor with data set #2 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testSet_Keywords_Factor",
+    "test": "LineitemControllerTest::testSet_Keywords_Factor with data set #2 ('0', '')",
+    "status": "pass",
+    "time": 0.055085897445679,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testModify_Keywords_Factor",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Keywords_Factor",
+    "test": "LineitemControllerTest::testModify_Keywords_Factor with data set #0 ('100145', '40b89e7a-76a9-8df4-3f08-c1da7fc73d80', '1.5', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Keywords_Factor",
+    "test": "LineitemControllerTest::testModify_Keywords_Factor with data set #0 ('100145', '40b89e7a-76a9-8df4-3f08-c1da7fc73d80', '1.5', '1')",
+    "status": "error",
+    "time": 0.067631959915161,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 632,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Keywords_Factor",
+    "test": "LineitemControllerTest::testModify_Keywords_Factor with data set #1 ('100145', '', '1.5', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Keywords_Factor",
+    "test": "LineitemControllerTest::testModify_Keywords_Factor with data set #1 ('100145', '', '1.5', '')",
+    "status": "pass",
+    "time": 0.058797836303711,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Keywords_Factor",
+    "test": "LineitemControllerTest::testModify_Keywords_Factor with data set #2 ('-1', '40b89e7a-76a9-8df4-3f08-c1da7fc73d80', '1.12', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Keywords_Factor",
+    "test": "LineitemControllerTest::testModify_Keywords_Factor with data set #2 ('-1', '40b89e7a-76a9-8df4-3f08-c1da7fc73d80', '1.12', '')",
+    "status": "pass",
+    "time": 0.060298919677734,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testSet_Geo_Factor",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testSet_Geo_Factor",
+    "test": "LineitemControllerTest::testSet_Geo_Factor with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testSet_Geo_Factor",
+    "test": "LineitemControllerTest::testSet_Geo_Factor with data set #0 ('100145', '1')",
+    "status": "pass",
+    "time": 0.0656418800354,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testSet_Geo_Factor",
+    "test": "LineitemControllerTest::testSet_Geo_Factor with data set #1 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testSet_Geo_Factor",
+    "test": "LineitemControllerTest::testSet_Geo_Factor with data set #1 ('-1', '')",
+    "status": "pass",
+    "time": 0.056318998336792,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testSet_Geo_Factor",
+    "test": "LineitemControllerTest::testSet_Geo_Factor with data set #2 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testSet_Geo_Factor",
+    "test": "LineitemControllerTest::testSet_Geo_Factor with data set #2 ('0', '')",
+    "status": "pass",
+    "time": 0.055852890014648,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "test": "LineitemControllerTest::testModify_Geo_Factor with data set #0 ('100145', '00501', '1.11', 'zipcode', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "test": "LineitemControllerTest::testModify_Geo_Factor with data set #0 ('100145', '00501', '1.11', 'zipcode', '1')",
+    "status": "error",
+    "time": 0.066936016082764,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 677,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "test": "LineitemControllerTest::testModify_Geo_Factor with data set #1 ('-1', '00501', '1.11', 'zipcode', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "test": "LineitemControllerTest::testModify_Geo_Factor with data set #1 ('-1', '00501', '1.11', 'zipcode', '')",
+    "status": "pass",
+    "time": 0.063485860824585,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "test": "LineitemControllerTest::testModify_Geo_Factor with data set #2 ('0', '00501', '1.12', 'zipcode', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "test": "LineitemControllerTest::testModify_Geo_Factor with data set #2 ('0', '00501', '1.12', 'zipcode', '')",
+    "status": "pass",
+    "time": 0.057337999343872,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "test": "LineitemControllerTest::testModify_Geo_Factor with data set #3 ('100145', '', '1.11', 'zipcode', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "test": "LineitemControllerTest::testModify_Geo_Factor with data set #3 ('100145', '', '1.11', 'zipcode', '')",
+    "status": "error",
+    "time": 0.063343048095703,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 677,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "test": "LineitemControllerTest::testModify_Geo_Factor with data set #4 ('100145', '00501', '', 'zipcode', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "test": "LineitemControllerTest::testModify_Geo_Factor with data set #4 ('100145', '00501', '', 'zipcode', '')",
+    "status": "pass",
+    "time": 0.056893825531006,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "test": "LineitemControllerTest::testModify_Geo_Factor with data set #5 ('100145', '00501', '1.12', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Geo_Factor",
+    "test": "LineitemControllerTest::testModify_Geo_Factor with data set #5 ('100145', '00501', '1.12', '', '')",
+    "status": "pass",
+    "time": 0.056885957717896,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "test": "LineitemControllerTest::testModify_Param_Factor with data set #0 ('100145', 'os', '100001', '1.11', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "test": "LineitemControllerTest::testModify_Param_Factor with data set #0 ('100145', 'os', '100001', '1.11', '1')",
+    "status": "error",
+    "time": 0.067753791809082,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 700,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "test": "LineitemControllerTest::testModify_Param_Factor with data set #1 ('100145', '', '00501', '1.11', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "test": "LineitemControllerTest::testModify_Param_Factor with data set #1 ('100145', '', '00501', '1.11', '')",
+    "status": "pass",
+    "time": 0.055139064788818,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "test": "LineitemControllerTest::testModify_Param_Factor with data set #2 ('', 'os', '00501', '1.11', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "test": "LineitemControllerTest::testModify_Param_Factor with data set #2 ('', 'os', '00501', '1.11', '')",
+    "status": "pass",
+    "time": 0.056581974029541,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "test": "LineitemControllerTest::testModify_Param_Factor with data set #3 ('100145', 'os', '10001', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "test": "LineitemControllerTest::testModify_Param_Factor with data set #3 ('100145', 'os', '10001', '', '')",
+    "status": "pass",
+    "time": 0.063491106033325,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "test": "LineitemControllerTest::testModify_Param_Factor with data set #4 ('100145', 'os', '', '1.11', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "test": "LineitemControllerTest::testModify_Param_Factor with data set #4 ('100145', 'os', '', '1.11', '')",
+    "status": "pass",
+    "time": 0.075936079025269,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "test": "LineitemControllerTest::testModify_Param_Factor with data set #5 ('100145', 'os', '', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Param_Factor",
+    "test": "LineitemControllerTest::testModify_Param_Factor with data set #5 ('100145', 'os', '', '', '')",
+    "status": "pass",
+    "time": 0.06122612953186,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "test": "LineitemControllerTest::testUpdate_List with data set #0 ('100145', '10159', '1.12', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "test": "LineitemControllerTest::testUpdate_List with data set #0 ('100145', '10159', '1.12', '1')",
+    "status": "error",
+    "time": 0.065049171447754,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 724,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "test": "LineitemControllerTest::testUpdate_List with data set #1 ('-1', '', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "test": "LineitemControllerTest::testUpdate_List with data set #1 ('-1', '', '', '')",
+    "status": "error",
+    "time": 0.055730819702148,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 724,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "test": "LineitemControllerTest::testUpdate_List with data set #2 ('0', '10159', '1.13', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "test": "LineitemControllerTest::testUpdate_List with data set #2 ('0', '10159', '1.13', '')",
+    "status": "error",
+    "time": 0.061278820037842,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 724,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "test": "LineitemControllerTest::testUpdate_List with data set #3 ('100145', '', '1.12', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "test": "LineitemControllerTest::testUpdate_List with data set #3 ('100145', '', '1.12', '1')",
+    "status": "error",
+    "time": 0.055941820144653,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 724,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "test": "LineitemControllerTest::testUpdate_List with data set #4 ('10159', '-1', '1.12', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "test": "LineitemControllerTest::testUpdate_List with data set #4 ('10159', '-1', '1.12', '')",
+    "status": "error",
+    "time": 0.067759990692139,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 724,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "test": "LineitemControllerTest::testUpdate_List with data set #5 ('10145', '10159', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testUpdate_List",
+    "test": "LineitemControllerTest::testUpdate_List with data set #5 ('10145', '10159', '', '')",
+    "status": "error",
+    "time": 0.058099985122681,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 724,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "test": "LineitemControllerTest::testModify_Price_Factor with data set #0 ('100145', '2', '2', 'exchange', '1.12', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "test": "LineitemControllerTest::testModify_Price_Factor with data set #0 ('100145', '2', '2', 'exchange', '1.12', '1')",
+    "status": "error",
+    "time": 0.07536506652832,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 752,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "test": "LineitemControllerTest::testModify_Price_Factor with data set #1 ('100145', '', '', '', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "test": "LineitemControllerTest::testModify_Price_Factor with data set #1 ('100145', '', '', '', '', '')",
+    "status": "pass",
+    "time": 0.059039115905762,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "test": "LineitemControllerTest::testModify_Price_Factor with data set #2 ('100145', '2', '2', '', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "test": "LineitemControllerTest::testModify_Price_Factor with data set #2 ('100145', '2', '2', '', '', '')",
+    "status": "pass",
+    "time": 0.057026147842407,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "test": "LineitemControllerTest::testModify_Price_Factor with data set #3 ('100145', '2', '2', 'exchange', '', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "test": "LineitemControllerTest::testModify_Price_Factor with data set #3 ('100145', '2', '2', 'exchange', '', '1')",
+    "status": "fail",
+    "time": 0.055238008499146,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 752,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected '1'.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "test": "LineitemControllerTest::testModify_Price_Factor with data set #4 ('100145', '', '', 'exchange', '1.12', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "test": "LineitemControllerTest::testModify_Price_Factor with data set #4 ('100145', '', '', 'exchange', '1.12', '')",
+    "status": "pass",
+    "time": 0.055089950561523,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "test": "LineitemControllerTest::testModify_Price_Factor with data set #5 ('100145', '', '2', 'exchange', '1.12', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testModify_Price_Factor",
+    "test": "LineitemControllerTest::testModify_Price_Factor with data set #5 ('100145', '', '2', 'exchange', '1.12', '')",
+    "status": "pass",
+    "time": 0.058881044387817,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_lineitem_Weight",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_lineitem_Weight",
+    "test": "LineitemControllerTest::testGet_lineitem_Weight with data set #0 ('100145', 'hour', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_lineitem_Weight",
+    "test": "LineitemControllerTest::testGet_lineitem_Weight with data set #0 ('100145', 'hour', '1')",
+    "status": "pass",
+    "time": 0.058604001998901,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_lineitem_Weight",
+    "test": "LineitemControllerTest::testGet_lineitem_Weight with data set #1 ('100145', 'week', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_lineitem_Weight",
+    "test": "LineitemControllerTest::testGet_lineitem_Weight with data set #1 ('100145', 'week', '1')",
+    "status": "pass",
+    "time": 0.058320045471191,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_lineitem_Weight",
+    "test": "LineitemControllerTest::testGet_lineitem_Weight with data set #2 ('', 'week', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_lineitem_Weight",
+    "test": "LineitemControllerTest::testGet_lineitem_Weight with data set #2 ('', 'week', '')",
+    "status": "pass",
+    "time": 0.0538649559021,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_lineitem_Weight",
+    "test": "LineitemControllerTest::testGet_lineitem_Weight with data set #3 ('100145', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_lineitem_Weight",
+    "test": "LineitemControllerTest::testGet_lineitem_Weight with data set #3 ('100145', '', '')",
+    "status": "pass",
+    "time": 0.054537057876587,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_Geo",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Geo",
+    "test": "LineitemControllerTest::testGet_Geo with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Geo",
+    "test": "LineitemControllerTest::testGet_Geo with data set #0 ('100145', '1')",
+    "status": "pass",
+    "time": 0.060580015182495,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Geo",
+    "test": "LineitemControllerTest::testGet_Geo with data set #1 ('', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Geo",
+    "test": "LineitemControllerTest::testGet_Geo with data set #1 ('', '')",
+    "status": "pass",
+    "time": 0.056111097335815,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Geo",
+    "test": "LineitemControllerTest::testGet_Geo with data set #2 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Geo",
+    "test": "LineitemControllerTest::testGet_Geo with data set #2 ('-1', '')",
+    "status": "pass",
+    "time": 0.05802583694458,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testAdd_Geo",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Geo",
+    "test": "LineitemControllerTest::testAdd_Geo with data set #0 ('100145', '1156120000', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Geo",
+    "test": "LineitemControllerTest::testAdd_Geo with data set #0 ('100145', '1156120000', '1')",
+    "status": "error",
+    "time": 0.06261682510376,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 886,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Geo",
+    "test": "LineitemControllerTest::testAdd_Geo with data set #1 ('100145', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Geo",
+    "test": "LineitemControllerTest::testAdd_Geo with data set #1 ('100145', '', '')",
+    "status": "pass",
+    "time": 0.056826114654541,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Geo",
+    "test": "LineitemControllerTest::testAdd_Geo with data set #2 ('', '1156120000', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Geo",
+    "test": "LineitemControllerTest::testAdd_Geo with data set #2 ('', '1156120000', '1')",
+    "status": "fail",
+    "time": 0.055996894836426,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 886,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected '1'.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "test": "LineitemControllerTest::testDelete_Geo with data set #0 ('100145', '1156120000', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "test": "LineitemControllerTest::testDelete_Geo with data set #0 ('100145', '1156120000', '1')",
+    "status": "error",
+    "time": 0.062696933746338,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 907,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "test": "LineitemControllerTest::testDelete_Geo with data set #1 ('', '1156120000', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "test": "LineitemControllerTest::testDelete_Geo with data set #1 ('', '1156120000', '')",
+    "status": "pass",
+    "time": 0.058290004730225,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "test": "LineitemControllerTest::testDelete_Geo with data set #2 ('100145', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "test": "LineitemControllerTest::testDelete_Geo with data set #2 ('100145', '', '')",
+    "status": "pass",
+    "time": 0.058462858200073,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "test": "LineitemControllerTest::testDelete_Geo with data set #3 ('-1', '1156120000', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "test": "LineitemControllerTest::testDelete_Geo with data set #3 ('-1', '1156120000', '')",
+    "status": "pass",
+    "time": 0.059864044189453,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "test": "LineitemControllerTest::testDelete_Geo with data set #4 ('0', '1156120000', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "test": "LineitemControllerTest::testDelete_Geo with data set #4 ('0', '1156120000', '')",
+    "status": "pass",
+    "time": 0.067991018295288,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "test": "LineitemControllerTest::testDelete_Geo with data set #5 ('100145', '0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Geo",
+    "test": "LineitemControllerTest::testDelete_Geo with data set #5 ('100145', '0', '')",
+    "status": "pass",
+    "time": 0.056219100952148,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_Zipcode",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Zipcode",
+    "test": "LineitemControllerTest::testGet_Zipcode with data set #0 ('100145', 'NY', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Zipcode",
+    "test": "LineitemControllerTest::testGet_Zipcode with data set #0 ('100145', 'NY', '1')",
+    "status": "pass",
+    "time": 0.11338996887207,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Zipcode",
+    "test": "LineitemControllerTest::testGet_Zipcode with data set #1 ('100145', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Zipcode",
+    "test": "LineitemControllerTest::testGet_Zipcode with data set #1 ('100145', '', '')",
+    "status": "pass",
+    "time": 0.057301044464111,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Zipcode",
+    "test": "LineitemControllerTest::testGet_Zipcode with data set #2 ('-1', 'NY', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Zipcode",
+    "test": "LineitemControllerTest::testGet_Zipcode with data set #2 ('-1', 'NY', '')",
+    "status": "fail",
+    "time": 0.10660004615784,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 929,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "tests": 6
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "test": "LineitemControllerTest::testAdd_Geo_Zip with data set #0 ('100145', '10008', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "test": "LineitemControllerTest::testAdd_Geo_Zip with data set #0 ('100145', '10008', '1')",
+    "status": "pass",
+    "time": 0.07000994682312,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "test": "LineitemControllerTest::testAdd_Geo_Zip with data set #1 ('', '10008', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "test": "LineitemControllerTest::testAdd_Geo_Zip with data set #1 ('', '10008', '')",
+    "status": "pass",
+    "time": 0.069707870483398,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "test": "LineitemControllerTest::testAdd_Geo_Zip with data set #2 ('100145', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "test": "LineitemControllerTest::testAdd_Geo_Zip with data set #2 ('100145', '', '')",
+    "status": "pass",
+    "time": 0.059531927108765,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "test": "LineitemControllerTest::testAdd_Geo_Zip with data set #3 ('-1', '10008', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "test": "LineitemControllerTest::testAdd_Geo_Zip with data set #3 ('-1', '10008', '')",
+    "status": "pass",
+    "time": 0.059176921844482,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "test": "LineitemControllerTest::testAdd_Geo_Zip with data set #4 ('0', '10008', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "test": "LineitemControllerTest::testAdd_Geo_Zip with data set #4 ('0', '10008', '')",
+    "status": "pass",
+    "time": 0.12012910842896,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "test": "LineitemControllerTest::testAdd_Geo_Zip with data set #5 ('100145', '-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Geo_Zip",
+    "test": "LineitemControllerTest::testAdd_Geo_Zip with data set #5 ('100145', '-1', '')",
+    "status": "fail",
+    "time": 0.066625118255615,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 951,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testAdd_DMA_Zip",
+    "tests": 5
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_DMA_Zip",
+    "test": "LineitemControllerTest::testAdd_DMA_Zip with data set #0 ('100145', '512', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_DMA_Zip",
+    "test": "LineitemControllerTest::testAdd_DMA_Zip with data set #0 ('100145', '512', '1')",
+    "status": "pass",
+    "time": 0.058149099349976,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_DMA_Zip",
+    "test": "LineitemControllerTest::testAdd_DMA_Zip with data set #1 ('-100145', '512', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_DMA_Zip",
+    "test": "LineitemControllerTest::testAdd_DMA_Zip with data set #1 ('-100145', '512', '')",
+    "status": "pass",
+    "time": 0.059489011764526,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_DMA_Zip",
+    "test": "LineitemControllerTest::testAdd_DMA_Zip with data set #2 ('0', '512', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_DMA_Zip",
+    "test": "LineitemControllerTest::testAdd_DMA_Zip with data set #2 ('0', '512', '')",
+    "status": "pass",
+    "time": 0.058034896850586,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_DMA_Zip",
+    "test": "LineitemControllerTest::testAdd_DMA_Zip with data set #3 ('100145', '', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_DMA_Zip",
+    "test": "LineitemControllerTest::testAdd_DMA_Zip with data set #3 ('100145', '', '1')",
+    "status": "fail",
+    "time": 0.058903932571411,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 972,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that false matches expected '1'.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_DMA_Zip",
+    "test": "LineitemControllerTest::testAdd_DMA_Zip with data set #4 ('100145', '1000000', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_DMA_Zip",
+    "test": "LineitemControllerTest::testAdd_DMA_Zip with data set #4 ('100145', '1000000', '')",
+    "status": "fail",
+    "time": 0.061361074447632,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 40,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 972,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that true matches expected ''.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testAdd_Keyword",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Keyword",
+    "test": "LineitemControllerTest::testAdd_Keyword with data set #0 ('100145', 'test.com', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Keyword",
+    "test": "LineitemControllerTest::testAdd_Keyword with data set #0 ('100145', 'test.com', '1')",
+    "status": "error",
+    "time": 0.065778970718384,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 1059,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Keyword",
+    "test": "LineitemControllerTest::testAdd_Keyword with data set #1 ('', 'test.com', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Keyword",
+    "test": "LineitemControllerTest::testAdd_Keyword with data set #1 ('', 'test.com', '')",
+    "status": "pass",
+    "time": 0.07141900062561,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Keyword",
+    "test": "LineitemControllerTest::testAdd_Keyword with data set #2 ('0', 'test1.com', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Keyword",
+    "test": "LineitemControllerTest::testAdd_Keyword with data set #2 ('0', 'test1.com', '')",
+    "status": "pass",
+    "time": 0.082624197006226,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testAdd_Keyword",
+    "test": "LineitemControllerTest::testAdd_Keyword with data set #3 ('100145', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testAdd_Keyword",
+    "test": "LineitemControllerTest::testAdd_Keyword with data set #3 ('100145', '', '')",
+    "status": "pass",
+    "time": 0.11298012733459,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGet_Keywords",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Keywords",
+    "test": "LineitemControllerTest::testGet_Keywords with data set #0 ('100145', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Keywords",
+    "test": "LineitemControllerTest::testGet_Keywords with data set #0 ('100145', '1')",
+    "status": "pass",
+    "time": 0.11229205131531,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Keywords",
+    "test": "LineitemControllerTest::testGet_Keywords with data set #1 ('', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Keywords",
+    "test": "LineitemControllerTest::testGet_Keywords with data set #1 ('', '')",
+    "status": "pass",
+    "time": 0.05900502204895,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGet_Keywords",
+    "test": "LineitemControllerTest::testGet_Keywords with data set #2 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGet_Keywords",
+    "test": "LineitemControllerTest::testGet_Keywords with data set #2 ('-1', '')",
+    "status": "pass",
+    "time": 0.057467937469482,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testUpdate_Keyword",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testUpdate_Keyword",
+    "test": "LineitemControllerTest::testUpdate_Keyword with data set #0 ('100145', '40b89e7a-76a9-8df4-3f08-c1da7fc73d80', 'baidu.com1', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testUpdate_Keyword",
+    "test": "LineitemControllerTest::testUpdate_Keyword with data set #0 ('100145', '40b89e7a-76a9-8df4-3f08-c1da7fc73d80', 'baidu.com1', '1')",
+    "status": "pass",
+    "time": 0.075225114822388,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testUpdate_Keyword",
+    "test": "LineitemControllerTest::testUpdate_Keyword with data set #1 ('', '40b89e7a-76a9-8df4-3f08-c1da7fc73d80', 'baidu.com2', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testUpdate_Keyword",
+    "test": "LineitemControllerTest::testUpdate_Keyword with data set #1 ('', '40b89e7a-76a9-8df4-3f08-c1da7fc73d80', 'baidu.com2', '')",
+    "status": "pass",
+    "time": 0.072949886322021,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testUpdate_Keyword",
+    "test": "LineitemControllerTest::testUpdate_Keyword with data set #2 ('100145', '', 'hfjsd', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testUpdate_Keyword",
+    "test": "LineitemControllerTest::testUpdate_Keyword with data set #2 ('100145', '', 'hfjsd', '')",
+    "status": "pass",
+    "time": 0.062647104263306,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testUpdate_Keyword",
+    "test": "LineitemControllerTest::testUpdate_Keyword with data set #3 ('100145', '40b89e7a-76a9-8df4-3f08-c1da7fc73d80', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testUpdate_Keyword",
+    "test": "LineitemControllerTest::testUpdate_Keyword with data set #3 ('100145', '40b89e7a-76a9-8df4-3f08-c1da7fc73d80', '', '')",
+    "status": "pass",
+    "time": 0.056459903717041,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testDelete_Keywords",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Keywords",
+    "test": "LineitemControllerTest::testDelete_Keywords with data set #0 ('100145', 'test.com', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Keywords",
+    "test": "LineitemControllerTest::testDelete_Keywords with data set #0 ('100145', 'test.com', '1')",
+    "status": "error",
+    "time": 0.063440084457397,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 36,
+            "function": "markTestSkipped",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/LineitemControllerTest.php",
+            "line": 1123,
+            "function": "exec_test",
+            "class": "LineitemControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Skipped Test: http request execption",
+    "output": "NULL\n"
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Keywords",
+    "test": "LineitemControllerTest::testDelete_Keywords with data set #1 ('', 'test.com1', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Keywords",
+    "test": "LineitemControllerTest::testDelete_Keywords with data set #1 ('', 'test.com1', '')",
+    "status": "pass",
+    "time": 0.057183027267456,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testDelete_Keywords",
+    "test": "LineitemControllerTest::testDelete_Keywords with data set #2 ('100145', '', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testDelete_Keywords",
+    "test": "LineitemControllerTest::testDelete_Keywords with data set #2 ('100145', '', '')",
+    "status": "pass",
+    "time": 0.05571985244751,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "LineitemControllerTest::testGetEnableLineitem",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetEnableLineitem",
+    "test": "LineitemControllerTest::testGetEnableLineitem with data set #0 ('100194', '1')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetEnableLineitem",
+    "test": "LineitemControllerTest::testGetEnableLineitem with data set #0 ('100194', '1')",
+    "status": "pass",
+    "time": 0.058465003967285,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetEnableLineitem",
+    "test": "LineitemControllerTest::testGetEnableLineitem with data set #1 ('', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetEnableLineitem",
+    "test": "LineitemControllerTest::testGetEnableLineitem with data set #1 ('', '')",
+    "status": "pass",
+    "time": 0.056901931762695,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "LineitemControllerTest::testGetEnableLineitem",
+    "test": "LineitemControllerTest::testGetEnableLineitem with data set #2 ('0', '')"
+}{
+    "event": "test",
+    "suite": "LineitemControllerTest::testGetEnableLineitem",
+    "test": "LineitemControllerTest::testGetEnableLineitem with data set #2 ('0', '')",
+    "status": "pass",
+    "time": 0.056421041488647,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "ControllerTests",
+    "tests": 42
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest",
+    "tests": 42
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testgetCampByAdvId",
+    "tests": 2
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testgetCampByAdvId",
+    "test": "CampaignControllerTest::testgetCampByAdvId with data set #0 ('', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testgetCampByAdvId",
+    "test": "CampaignControllerTest::testgetCampByAdvId with data set #0 ('', '')",
+    "status": "pass",
+    "time": 0.14493703842163,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testgetCampByAdvId",
+    "test": "CampaignControllerTest::testgetCampByAdvId with data set #1 ('', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testgetCampByAdvId",
+    "test": "CampaignControllerTest::testgetCampByAdvId with data set #1 ('', '')",
+    "status": "pass",
+    "time": 0.17323184013367,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "",
+    "test": "CampaignControllerTest::testgetCampLineByAdvId"
+}{
+    "event": "test",
+    "suite": "",
+    "test": "CampaignControllerTest::testgetCampLineByAdvId",
+    "status": "pass",
+    "time": 0.18793702125549,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testGetCampaignInfo",
+    "tests": 2
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetCampaignInfo",
+    "test": "CampaignControllerTest::testGetCampaignInfo with data set #0 ('100194', '1')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetCampaignInfo",
+    "test": "CampaignControllerTest::testGetCampaignInfo with data set #0 ('100194', '1')",
+    "status": "pass",
+    "time": 0.094648838043213,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetCampaignInfo",
+    "test": "CampaignControllerTest::testGetCampaignInfo with data set #1 ('0', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetCampaignInfo",
+    "test": "CampaignControllerTest::testGetCampaignInfo with data set #1 ('0', '')",
+    "status": "pass",
+    "time": 0.090726137161255,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testGetCampaignWeight",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetCampaignWeight",
+    "test": "CampaignControllerTest::testGetCampaignWeight with data set #0 ('100194', '1')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetCampaignWeight",
+    "test": "CampaignControllerTest::testGetCampaignWeight with data set #0 ('100194', '1')",
+    "status": "pass",
+    "time": 0.079407930374146,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetCampaignWeight",
+    "test": "CampaignControllerTest::testGetCampaignWeight with data set #1 ('0', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetCampaignWeight",
+    "test": "CampaignControllerTest::testGetCampaignWeight with data set #1 ('0', '')",
+    "status": "pass",
+    "time": 0.052517890930176,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetCampaignWeight",
+    "test": "CampaignControllerTest::testGetCampaignWeight with data set #2 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetCampaignWeight",
+    "test": "CampaignControllerTest::testGetCampaignWeight with data set #2 ('-1', '')",
+    "status": "pass",
+    "time": 0.0472731590271,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testGetCres",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetCres",
+    "test": "CampaignControllerTest::testGetCres with data set #0 ('100194', '1')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetCres",
+    "test": "CampaignControllerTest::testGetCres with data set #0 ('100194', '1')",
+    "status": "pass",
+    "time": 0.048951148986816,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetCres",
+    "test": "CampaignControllerTest::testGetCres with data set #1 ('0', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetCres",
+    "test": "CampaignControllerTest::testGetCres with data set #1 ('0', '')",
+    "status": "pass",
+    "time": 0.046278953552246,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetCres",
+    "test": "CampaignControllerTest::testGetCres with data set #2 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetCres",
+    "test": "CampaignControllerTest::testGetCres with data set #2 ('-1', '')",
+    "status": "pass",
+    "time": 0.048362016677856,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testGetExcludedCreatives",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetExcludedCreatives",
+    "test": "CampaignControllerTest::testGetExcludedCreatives with data set #0 ('100194', '1')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetExcludedCreatives",
+    "test": "CampaignControllerTest::testGetExcludedCreatives with data set #0 ('100194', '1')",
+    "status": "pass",
+    "time": 0.049369096755981,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetExcludedCreatives",
+    "test": "CampaignControllerTest::testGetExcludedCreatives with data set #1 ('0', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetExcludedCreatives",
+    "test": "CampaignControllerTest::testGetExcludedCreatives with data set #1 ('0', '')",
+    "status": "pass",
+    "time": 0.050716876983643,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetExcludedCreatives",
+    "test": "CampaignControllerTest::testGetExcludedCreatives with data set #2 ('-1', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetExcludedCreatives",
+    "test": "CampaignControllerTest::testGetExcludedCreatives with data set #2 ('-1', '')",
+    "status": "pass",
+    "time": 0.04449200630188,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testAddCreativeToCampaign",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testAddCreativeToCampaign",
+    "test": "CampaignControllerTest::testAddCreativeToCampaign with data set #0 ('100194', '100529', '1')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testAddCreativeToCampaign",
+    "test": "CampaignControllerTest::testAddCreativeToCampaign with data set #0 ('100194', '100529', '1')",
+    "status": "pass",
+    "time": 0.052217960357666,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testAddCreativeToCampaign",
+    "test": "CampaignControllerTest::testAddCreativeToCampaign with data set #1 ('', '100529', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testAddCreativeToCampaign",
+    "test": "CampaignControllerTest::testAddCreativeToCampaign with data set #1 ('', '100529', '')",
+    "status": "pass",
+    "time": 0.046041965484619,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testAddCreativeToCampaign",
+    "test": "CampaignControllerTest::testAddCreativeToCampaign with data set #2 ('0', '100529', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testAddCreativeToCampaign",
+    "test": "CampaignControllerTest::testAddCreativeToCampaign with data set #2 ('0', '100529', '')",
+    "status": "pass",
+    "time": 0.044528007507324,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testAddCreativeToCampaign",
+    "test": "CampaignControllerTest::testAddCreativeToCampaign with data set #3 ('100194', '0', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testAddCreativeToCampaign",
+    "test": "CampaignControllerTest::testAddCreativeToCampaign with data set #3 ('100194', '0', '')",
+    "status": "pass",
+    "time": 0.046654939651489,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testExcludeCreatives",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testExcludeCreatives",
+    "test": "CampaignControllerTest::testExcludeCreatives with data set #0 ('100194', '100529', '1')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testExcludeCreatives",
+    "test": "CampaignControllerTest::testExcludeCreatives with data set #0 ('100194', '100529', '1')",
+    "status": "pass",
+    "time": 0.049823999404907,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testExcludeCreatives",
+    "test": "CampaignControllerTest::testExcludeCreatives with data set #1 ('', '100529', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testExcludeCreatives",
+    "test": "CampaignControllerTest::testExcludeCreatives with data set #1 ('', '100529', '')",
+    "status": "pass",
+    "time": 0.044705867767334,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testExcludeCreatives",
+    "test": "CampaignControllerTest::testExcludeCreatives with data set #2 ('0', '100529', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testExcludeCreatives",
+    "test": "CampaignControllerTest::testExcludeCreatives with data set #2 ('0', '100529', '')",
+    "status": "pass",
+    "time": 0.04594898223877,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testExcludeCreatives",
+    "test": "CampaignControllerTest::testExcludeCreatives with data set #3 ('100194', '0', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testExcludeCreatives",
+    "test": "CampaignControllerTest::testExcludeCreatives with data set #3 ('100194', '0', '')",
+    "status": "fail",
+    "time": 0.055520057678223,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/CampaignControllerTest.php",
+            "line": 38,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/CampaignControllerTest.php",
+            "line": 203,
+            "function": "exec_test",
+            "class": "CampaignControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that '' matches expected true.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testAddPixelToCamp",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testAddPixelToCamp",
+    "test": "CampaignControllerTest::testAddPixelToCamp with data set #0 ('100194', '140', '1')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testAddPixelToCamp",
+    "test": "CampaignControllerTest::testAddPixelToCamp with data set #0 ('100194', '140', '1')",
+    "status": "pass",
+    "time": 0.051900863647461,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testAddPixelToCamp",
+    "test": "CampaignControllerTest::testAddPixelToCamp with data set #1 ('0', '139', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testAddPixelToCamp",
+    "test": "CampaignControllerTest::testAddPixelToCamp with data set #1 ('0', '139', '')",
+    "status": "pass",
+    "time": 0.05416202545166,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testAddPixelToCamp",
+    "test": "CampaignControllerTest::testAddPixelToCamp with data set #2 ('100194', '', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testAddPixelToCamp",
+    "test": "CampaignControllerTest::testAddPixelToCamp with data set #2 ('100194', '', '')",
+    "status": "pass",
+    "time": 0.061300992965698,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testAddPixelToCamp",
+    "test": "CampaignControllerTest::testAddPixelToCamp with data set #3 ('100194', '0', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testAddPixelToCamp",
+    "test": "CampaignControllerTest::testAddPixelToCamp with data set #3 ('100194', '0', '')",
+    "status": "pass",
+    "time": 0.055911064147949,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testGetCampaignPixel",
+    "tests": 2
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetCampaignPixel",
+    "test": "CampaignControllerTest::testGetCampaignPixel with data set #0 ('100194', '1')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetCampaignPixel",
+    "test": "CampaignControllerTest::testGetCampaignPixel with data set #0 ('100194', '1')",
+    "status": "pass",
+    "time": 0.049023866653442,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetCampaignPixel",
+    "test": "CampaignControllerTest::testGetCampaignPixel with data set #1 ('0', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetCampaignPixel",
+    "test": "CampaignControllerTest::testGetCampaignPixel with data set #1 ('0', '')",
+    "status": "pass",
+    "time": 0.046315908432007,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testDeletePixelFromCamp",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testDeletePixelFromCamp",
+    "test": "CampaignControllerTest::testDeletePixelFromCamp with data set #0 ('100194', '140', '1')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testDeletePixelFromCamp",
+    "test": "CampaignControllerTest::testDeletePixelFromCamp with data set #0 ('100194', '140', '1')",
+    "status": "pass",
+    "time": 0.050480842590332,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testDeletePixelFromCamp",
+    "test": "CampaignControllerTest::testDeletePixelFromCamp with data set #1 ('0', '2', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testDeletePixelFromCamp",
+    "test": "CampaignControllerTest::testDeletePixelFromCamp with data set #1 ('0', '2', '')",
+    "status": "pass",
+    "time": 0.046392917633057,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testDeletePixelFromCamp",
+    "test": "CampaignControllerTest::testDeletePixelFromCamp with data set #2 ('100194', '', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testDeletePixelFromCamp",
+    "test": "CampaignControllerTest::testDeletePixelFromCamp with data set #2 ('100194', '', '')",
+    "status": "pass",
+    "time": 0.046727180480957,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testDeletePixelFromCamp",
+    "test": "CampaignControllerTest::testDeletePixelFromCamp with data set #3 ('100194', '0', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testDeletePixelFromCamp",
+    "test": "CampaignControllerTest::testDeletePixelFromCamp with data set #3 ('100194', '0', '')",
+    "status": "fail",
+    "time": 0.046496868133545,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/CampaignControllerTest.php",
+            "line": 38,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/CampaignControllerTest.php",
+            "line": 263,
+            "function": "exec_test",
+            "class": "CampaignControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that '' matches expected true.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testRevertCampaignStatus",
+    "tests": 4
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testRevertCampaignStatus",
+    "test": "CampaignControllerTest::testRevertCampaignStatus with data set #0 ('1', '100194', '1')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testRevertCampaignStatus",
+    "test": "CampaignControllerTest::testRevertCampaignStatus with data set #0 ('1', '100194', '1')",
+    "status": "pass",
+    "time": 0.049726009368896,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testRevertCampaignStatus",
+    "test": "CampaignControllerTest::testRevertCampaignStatus with data set #1 ('', '100194', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testRevertCampaignStatus",
+    "test": "CampaignControllerTest::testRevertCampaignStatus with data set #1 ('', '100194', '')",
+    "status": "pass",
+    "time": 0.044840097427368,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testRevertCampaignStatus",
+    "test": "CampaignControllerTest::testRevertCampaignStatus with data set #2 ('1', '', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testRevertCampaignStatus",
+    "test": "CampaignControllerTest::testRevertCampaignStatus with data set #2 ('1', '', '')",
+    "status": "fail",
+    "time": 0.051990985870361,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/CampaignControllerTest.php",
+            "line": 38,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/CampaignControllerTest.php",
+            "line": 283,
+            "function": "exec_test",
+            "class": "CampaignControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that '' matches expected true.",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testRevertCampaignStatus",
+    "test": "CampaignControllerTest::testRevertCampaignStatus with data set #3 ('1', '0', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testRevertCampaignStatus",
+    "test": "CampaignControllerTest::testRevertCampaignStatus with data set #3 ('1', '0', '')",
+    "status": "fail",
+    "time": 0.050856828689575,
+    "trace": [
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/CampaignControllerTest.php",
+            "line": 38,
+            "function": "assertEquals",
+            "class": "PHPUnit_Framework_Assert",
+            "type": "::"
+        },
+        {
+            "file": "\/home\/haomengru\/unit_test\/cms_bilin\/tests\/controllers\/CampaignControllerTest.php",
+            "line": 283,
+            "function": "exec_test",
+            "class": "CampaignControllerTest",
+            "type": "->"
+        }
+    ],
+    "message": "Failed asserting that '' matches expected true.",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testGetExcludedPixels",
+    "tests": 3
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetExcludedPixels",
+    "test": "CampaignControllerTest::testGetExcludedPixels with data set #0 ('100194', '1')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetExcludedPixels",
+    "test": "CampaignControllerTest::testGetExcludedPixels with data set #0 ('100194', '1')",
+    "status": "pass",
+    "time": 0.13436388969421,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetExcludedPixels",
+    "test": "CampaignControllerTest::testGetExcludedPixels with data set #1 ('0', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetExcludedPixels",
+    "test": "CampaignControllerTest::testGetExcludedPixels with data set #1 ('0', '')",
+    "status": "pass",
+    "time": 0.13526201248169,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetExcludedPixels",
+    "test": "CampaignControllerTest::testGetExcludedPixels with data set #2 ('', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetExcludedPixels",
+    "test": "CampaignControllerTest::testGetExcludedPixels with data set #2 ('', '')",
+    "status": "pass",
+    "time": 0.13725996017456,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "",
+    "test": "CampaignControllerTest::testGetConversionPixel"
+}{
+    "event": "test",
+    "suite": "",
+    "test": "CampaignControllerTest::testGetConversionPixel",
+    "status": "pass",
+    "time": 0.13776111602783,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "CampaignControllerTest::testGetCampaignsById",
+    "tests": 2
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetCampaignsById",
+    "test": "CampaignControllerTest::testGetCampaignsById with data set #0 ('100194', '1')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetCampaignsById",
+    "test": "CampaignControllerTest::testGetCampaignsById with data set #0 ('100194', '1')",
+    "status": "pass",
+    "time": 0.047157049179077,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "CampaignControllerTest::testGetCampaignsById",
+    "test": "CampaignControllerTest::testGetCampaignsById with data set #1 ('', '')"
+}{
+    "event": "test",
+    "suite": "CampaignControllerTest::testGetCampaignsById",
+    "test": "CampaignControllerTest::testGetCampaignsById with data set #1 ('', '')",
+    "status": "pass",
+    "time": 0.046771049499512,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

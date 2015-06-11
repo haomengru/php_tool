@@ -5,7 +5,7 @@ class ReadJsonClass
 
 	public function __construct()
 	{
-		  header("content-type:text/html;charset=utf-8");
+		header("content-type:text/html;charset=utf-8");
 	}
 
 	public function read_json($filename)
@@ -23,13 +23,14 @@ class ReadJsonClass
 
 		foreach($result as $row){
 			if (isset($row['status'])) {
-				
-				$temp['test'] = $row['test'];
-				$temp['status'] = $row['status'];
-				$temp['message'] = $row['message'];
+				if ($row['status'] == 'fail') {
+                    # code...
+                    $temp['test'] = $row['test'];
+                    $temp['status'] = $row['status'];
+                    $temp['message'] = $row['message'];
 
-				$new_arr[] = $temp;
-				
+                    $new_arr[] = $temp;
+                }
 			}
 			
 		}
@@ -53,9 +54,9 @@ class ReadJsonClass
         $objProps->setCategory("Test");
 
     }
-     /**
-        * set the properties of  file when output
-        * create by : HMR 2015-2-4
+    /**
+     * set the properties of  file when output
+     * create by : HMR 2015-2-4
 	 */
     public function outputDocument($objExcel, $outputFileName)
     {

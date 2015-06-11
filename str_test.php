@@ -5,7 +5,7 @@ $bodytag = str_replace("%body%", "black", "<body text='%body%'>");
 // 赋值: Hll Wrld f PHP
 $vowels = array("a", "e", "i", "o", "u", "A", "E", "I", "O", "U");
 $onlyconsonants = str_replace($vowels, "", "Hello World of PHP");
-// print_r($onlyconsonants);die();
+print_r($onlyconsonants);
 // 赋值: You should eat pizza, beer, and ice cream every day
 $phrase  = "You should eat fruits, vegetables, and fiber every day.";
 $healthy = array("fruits", "vegetables", "fiber");
@@ -15,8 +15,9 @@ $newphrase = str_replace($healthy, $yummy, $phrase);
 print_r($newphrase);
 // 赋值: 2
 $str = str_replace("ll", "", "good golly miss molly!", $count);
+// print_r($count);
 var_dump($str);
 
-$directory = str_replace(array('/', '.'), '', 'controller/rtytrtyr').'/';
+$directory = str_replace(array('/', '.'), '', 'controller/rtyt.rtyr').'/';
 print_r($directory);
 ?>

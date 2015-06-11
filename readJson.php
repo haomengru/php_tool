@@ -30,7 +30,7 @@ print_r($new_arr);*/
 require "PHPExcel.php";
 require "ReadJsonClass.php";
 
-$file = 'log2.json';
+$file = 'log_test.json';
 
 $obj = new ReadJsonClass();
 
